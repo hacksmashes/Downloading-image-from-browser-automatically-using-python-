@@ -8,3 +8,5 @@ Module used:
   
 Command to download module:
   - pip install simple_image_download
+
+For more details please refer Instagram page: https://www.instagram.com/hack_smashes/
